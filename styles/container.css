@@ -1,0 +1,35 @@
+:root {
+  box-sizing: border-box;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  user-select: none;
+}
+
+html, 
+body {
+  background-color: #ccc;
+  padding: 0;
+  margin: 0;
+  height: 100vh;
+}
+
+.container {
+  width: 80%;
+  height: 100vh;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: column;
+  gap: 20px;
+}
+
+.controller {
+  display: flex;
+  gap: 4rem;
+  font-size: 4rem;
+}
+.controller .buttons {
+  cursor: pointer;  
+  display: flex;
+  gap: 2rem;
+}

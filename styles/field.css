@@ -1,0 +1,11 @@
+.field {
+  position: relative;
+  width: 760px;
+  height: 760px;
+  background-color: #121212;
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 12px;
+  padding: 12px;
+}

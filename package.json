@@ -1,0 +1,19 @@
+{
+  "name": "2048",
+  "version": "1.0.0",
+  "description": "My 2048 game",
+  "main": "index.html",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "game",
+    "2048",
+    "pet",
+    "project",
+    "app"
+  ],
+  "author": "Artyom",
+  "license": "ISC"
+}
