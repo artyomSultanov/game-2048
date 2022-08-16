@@ -2,7 +2,7 @@
 
 ## **Introduction**
 
-In this project I practiced [MVC](https://ru.wikipedia.org/wiki/Model-View-Controller) architecture 
+In this project I practiced [MVP](https://ru.wikipedia.org/wiki/Model-View-Presenter) architecture 
 
 ___
 
